@@ -1,5 +1,5 @@
 {
-  "name": "wiz2md",
+  "name": "wiznote2md",
   "version": "0.1.0",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "rimraf": "^6.0.1",
     "sqlite3": "^5.1.7",
     "turndown": "^7.2.0",
     "unzipper": "^0.12.3"
