@@ -1,6 +1,6 @@
 {
   "name": "wiznote2markdown",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,6 @@
     "nodemon": "^3.1.9"
   },
   "bin": {
-    "wiznote2md": "./index.js"
+    "wiznote2markdown": "./index.js"
   }
 }
